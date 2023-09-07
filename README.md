@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science, Applied Accelerated AI, System Software, Network programing (*_*)
 - 👯 I’m looking to collaborate on Websites and Data Science contests and projects
 - I can do backends and deployments and data cleaning and models.
-- 🤔 I’m looking for a gf and help with life 
+- 🤔 I’m looking ..
 - 💬 Ask me about Anything and everything
 - 📫 How to reach me: Socials are on my website
 - 😄 Pronouns: He/him .
