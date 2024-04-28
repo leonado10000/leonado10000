@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+MachineLearner compiling a CSdeg in 3rd yr. 
+Good at Python4u,PyTorch,Docker,TF... 
+Worked in AI startup:- POC of activity Recognition on GPU and AI models Wrapper..
 
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonado10000&show_icons=true&theme=radical&count_private=true&border_radius=50)<br/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonado10000&langs_count=8&layout=compact&border_radius=40&theme=radical&length=80)](https://github.com/leonado10000/github-readme-stats)
@@ -21,7 +24,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Data Science
+- 🔭 Hoping to workWith industry leading ML engineers_ _ _ _ _ _
+- Explore the business applications for GenAI and openCV_ _ _ _ _
+- Learn and IMPLEMENT top ML papers in the industry_ _ _ _ _
+- Build SaaS products using openSource models and APIs_ _ _ _ _
+- Contribute significantly in a fast paced environment.
+
 - 🌱 I’m currently learning Data Science, Applied Accelerated AI, System Software, Network programing (*_*)
 - 👯 I’m looking to collaborate on Websites and Data Science contests and projects
 - I can do backends and deployments and data cleaning and models.
